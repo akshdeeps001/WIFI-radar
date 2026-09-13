@@ -10,10 +10,3 @@ Drive a character through a 3D six-room house — and watch a neighbor leeching 
 
 ---
 
-## 🚀 Quick Start
-
-No dependencies. No build step. No install.
-
-```bash
-git clone https://github.com/YOUR-USERNAME/wifi-radar.git
-cd wifi-radar
